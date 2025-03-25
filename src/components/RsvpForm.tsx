@@ -146,6 +146,7 @@ const RsvpForm = () => {
                         Reiser med bestilt buss/taxi som Alex har
                         bestilt(100-200kr pr person)
                       </option>
+                      <option value="Skal ikke hjem">Skal ikke hjem</option>
                       <option value="Egen bil">Egen bil</option>
                       <option value="Fikser egen transport">
                         Fikser egen transport
