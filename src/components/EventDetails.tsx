@@ -89,7 +89,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                10:00 - 13:00 -> Ankomst og start på festen
+                10:00 - 13:00 - Ankomst og start på festen
               </h4>
               <p className="text-gray-600">
                 Husk å kom før 13:00, slik at vi kan starte showet.
@@ -102,7 +102,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                14:00 -> Lunsj servers
+                14:00 - Lunsj servers
               </h4>
               <p className="text-gray-600">
                 Lett grillmat.
@@ -115,7 +115,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                15:00 -> Celine´s leker
+                15:00 - Celine´s leker
               </h4>
               <p className="text-gray-600">
                 Celine kjører showet, deler oss inn i lag!
@@ -128,7 +128,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                18:30 -> Middag
+                18:30 - Middag
               </h4>
               <p className="text-gray-600">
                 Buffet med masse god mat.
@@ -141,7 +141,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                20:00 -> Jeopardy
+                20:00 - Jeopardy
               </h4>
               <p className="text-gray-600">
                 Vi avslutter kvelden med en runde Jeopardy.
@@ -153,7 +153,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                01:00 -> Buss/Taxi
+                01:00 - Buss/Taxi
               </h4>
               <p className="text-gray-600">
                 Vi har bestilt buss/taxi til de som ønsker å reise hjem.
