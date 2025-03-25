@@ -128,7 +128,8 @@ const RsvpForm = () => {
                 <div className="space-y-2">
                   <div className="space-y-2">
                     <label htmlFor="guests" className="text-sm font-medium">
-                      Transport hjem
+                      Transport hjem(Transport til så må du ta grønn buss og bli
+                      hentet på Vågsenteret)
                     </label>
                     <select
                       id="guests"
@@ -194,7 +195,56 @@ const RsvpForm = () => {
             </div>
           </div>
 
-          <div className="space-y-1">{/* ... (your other content) */}</div>
+          <div className="space-y-1">
+            <div className="glossy-card bg-gray-50">
+              <div className="shine-effect"></div>
+              <div className="relative z-10">
+                <h4 className="font-serif text-lg font-medium mb-2">
+                  Svarfrist
+                </h4>
+                <p className="text-gray-600">
+                  Vennligst svar på invitasjonen innen 25. april 2025 for å
+                  hjelpe oss med planleggingen.
+                </p>
+              </div>
+            </div>
+
+            <div className="glossy-card bg-gray-50">
+              <div className="shine-effect"></div>
+              <div className="relative z-10">
+                <h4 className="font-serif text-lg font-medium mb-2">
+                  Klesstil
+                </h4>
+                <p className="text-gray-600">
+                  Kle deg etter været. Vi skal være ute hele dagen, under et
+                  party telt.
+                </p>
+              </div>
+            </div>
+
+            <div className="glossy-card bg-gray-50">
+              <div className="shine-effect"></div>
+              <div className="relative z-10">
+                <h4 className="font-serif text-lg font-medium mb-2">
+                  Transport ditt
+                </h4>
+                <p className="text-gray-600">
+                  Kan ta grønn buss 550 - Enebakk kirke og går av på
+                  Vågsenteret(bussen går en gang i timen fra Oslo bussterminal
+                  10:25, 11:25, 12:25), der er det vinmonopol og matbutikk.
+                </p>
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2530.136449403917!2d11.04769751318166!3d59.723888874702716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46415fc06fcdf0bb%3A0x4beca9dc7e38ae5d!2sV%C3%A5gsenteret!5e1!3m2!1sno!2sno!4v1742923690928!5m2!1sno!2sno"
+                  width="100%"
+                  height="300"
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  className="rounded-lg border"
+                ></iframe>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
