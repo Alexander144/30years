@@ -128,7 +128,7 @@ const RsvpForm = () => {
                 <div className="space-y-2">
                   <div className="space-y-2">
                     <label htmlFor="guests" className="text-sm font-medium">
-                      Transport hjem(Transport til så må du ta grønn buss og bli
+                      Transport hjem - Oslo S(Transport til så må du ta grønn buss og bli
                       hentet på Vågsenteret)
                     </label>
                     <select
