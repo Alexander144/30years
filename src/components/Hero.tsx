@@ -67,7 +67,7 @@ const Hero = () => {
           className="font-serif text-4xl md:text-6xl lg:text-7xl font-semibold mb-6 tracking-tight animate-fade-in opacity-0"
           style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
         >
-          Du er invitert til min
+          Bli med på 
           <br />
           hyttefest!
         </h1>
@@ -76,10 +76,10 @@ const Hero = () => {
           className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 animate-fade-in opacity-0"
           style={{ animationDelay: "0.5s", animationFillMode: "forwards" }}
         >
-          Vi feirer at jeg har rundet 30 år med en skikkelig fest på hytta mi på
-          Lyseren.
+          Jeg fyller 30 og det må feires - med en skikkelig fest på hytta mi på
+          Lyseren. Det blir god stemning, gøy leker og masse mat.
           <br />
-          Håper du har mulighet til å komme!
+          Håper du kan komme!
         </p>
 
         <div
