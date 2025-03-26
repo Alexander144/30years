@@ -171,7 +171,7 @@ const RsvpForm = () => {
                 </div>
                 <div className="space-y-2">
                   <label htmlFor="fact" className="text-sm font-medium">
-                    Skriv 2-5 setninger om deg selv(fun fact)
+                    Skriv en fun fact om deg selv
                   </label>
                   <textarea
                     id="fact"
@@ -227,7 +227,7 @@ const RsvpForm = () => {
               <div className="shine-effect"></div>
               <div className="relative z-10">
                 <h4 className="font-serif text-lg font-medium mb-2">
-                  Transport ditt
+                  Hvordan kommer jeg meg til hyttefesten?
                 </h4>
                 <p className="text-gray-600">
                   Kan ta grønn buss 550 - Enebakk kirke og går av på
