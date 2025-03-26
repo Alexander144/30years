@@ -102,7 +102,7 @@ const EventDetails = () => {
             >
               <div className="event-timeline-dot"></div>
               <h4 className="font-serif text-lg font-medium mb-1">
-                14:00 - Lunsj servers
+                14:00 - Lunsj serveres
               </h4>
               <p className="text-gray-600">
                 Lett grillmat.
