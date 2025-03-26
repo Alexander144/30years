@@ -49,7 +49,7 @@ const Hero = () => {
         <img className="" src="IMG_5826.JPG"></img>
       </div>
       <div
-        className="parallax-element absolute bottom-11 left-15 w-40 h-40 rounded-full"
+        className="parallax-element absolute bottom-11 left-12 w-40 h-40 rounded-full"
         data-speed="0.6"
       >
         <img className="rounded-full" src="IMG_5300.JPG"></img>
